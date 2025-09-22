@@ -1,7 +1,7 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+9# Experiment No: 1c-Varibles and Expressions, Operators
 
 ## AIM
-To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
+Write a python program to perform bitwise and or on the given integer values.
 
 ## ALGORITHM
 1. Begin the program.
@@ -13,14 +13,26 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
+# Read two integers from the user
+num1 = int(input())
+num2 = int(input())
+
+# Perform bitwise operations
+bitwise_and = num1 & num2
+bitwise_or = num1 | num2
+
+# Print the results
+print( bitwise_and)
+print( bitwise_or)
+
 
 ```
 
 ## OUTPUT
 
+4
+5
 
 ## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+
+<img width="351" height="235" alt="image" src="https://github.com/user-attachments/assets/b3d17f6b-55fb-4b64-9d7b-ebf91f52de63" />
