@@ -1,7 +1,9 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+Write a Python program to check whether the grade is A grade using simple if statement
+
+
 ## ALGORITHM  
 1. Begin the program.  
 2. Take a character input from the user
@@ -12,20 +14,21 @@ To Write a Python program to check whether the given character is a vowel or not
 4. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
-
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
-else:
-    print("The given character is NOT a vowel")
+```
+def check_grade(grade):
+     if grade == 'A':
+        print("Yes,The grade is 'A'")
+     else:
+        print(" ")
+grade = input()
+check_grade(grade)
 ```
 
 ## OUTPUT
 
+Yes,The grade is 'A'
+
+
 ## RESULT
+
+<img width="589" height="187" alt="image" src="https://github.com/user-attachments/assets/88033482-3260-4d8f-a55c-e4ddf207f998" />
