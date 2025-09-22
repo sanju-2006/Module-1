@@ -1,7 +1,7 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types 
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+Write a python program to read one string and integer and print the values. Use Eval().
 
 ## ALGORITHM  
 1. Begin the program.  
@@ -10,20 +10,16 @@ To write a Python program to print the following integer literals: 123, 456, 789
 4. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+```
+a=int(input())
+b=str(input())
+print(a,b)
 
 ```
 ## OUTPUT
 
+1 saveetha
+
 ## RESULT
+
+<img width="728" height="242" alt="image" src="https://github.com/user-attachments/assets/c9cbf298-b36a-48c3-87fd-a4442fe6f377" />
