@@ -23,15 +23,9 @@ print(multiline_string)
 ```
 ## OUTPUT
 
-I am a string literal
-... has more than one
-... line
-....placed inside triple single quotes
-I am a string literal
-... has more than one
-... line
-....placed inside triple double quotes
+<img width="835" height="305" alt="image" src="https://github.com/user-attachments/assets/a38fee6f-32d9-46c3-b8a3-9b7140506fe7" />
+
 
 ## RESULT
 
-<img width="835" height="305" alt="image" src="https://github.com/user-attachments/assets/a38fee6f-32d9-46c3-b8a3-9b7140506fe7" />
+Python program to print the string in multiple lines using triple quotes is successfully verified
