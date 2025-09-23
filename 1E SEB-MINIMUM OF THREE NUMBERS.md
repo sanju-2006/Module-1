@@ -27,8 +27,8 @@ print(f"The maximum of {num1}, {num2}, {num3} is {max_number}")
 
 ## OUTPUT
 
-The maximum of 15, 20, 11 is 20
+<img width="901" height="367" alt="image" src="https://github.com/user-attachments/assets/8fa9ca46-c996-43ae-8dce-8b8e927ee0f7" />
 
 ## RESULT
 
-<img width="901" height="367" alt="image" src="https://github.com/user-attachments/assets/8fa9ca46-c996-43ae-8dce-8b8e927ee0f7" />
+Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator) is successfully verified
