@@ -30,9 +30,9 @@ print( bitwise_or)
 
 ## OUTPUT
 
-4
-5
+<img width="351" height="235" alt="image" src="https://github.com/user-attachments/assets/b3d17f6b-55fb-4b64-9d7b-ebf91f52de63" />
+
 
 ## RESULT
 
-<img width="351" height="235" alt="image" src="https://github.com/user-attachments/assets/b3d17f6b-55fb-4b64-9d7b-ebf91f52de63" />
+python program to perform bitwise and or on the given integer values is successfully verified
