@@ -18,8 +18,8 @@ print(a,b)
 ```
 ## OUTPUT
 
-1 saveetha
+<img width="728" height="242" alt="image" src="https://github.com/user-attachments/assets/c9cbf298-b36a-48c3-87fd-a4442fe6f377" />
 
 ## RESULT
 
-<img width="728" height="242" alt="image" src="https://github.com/user-attachments/assets/c9cbf298-b36a-48c3-87fd-a4442fe6f377" />
+Python program to read one string and integer and print the values is successfully verified
