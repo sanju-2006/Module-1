@@ -26,9 +26,9 @@ check_grade(grade)
 
 ## OUTPUT
 
-Yes,The grade is 'A'
+<img width="589" height="187" alt="image" src="https://github.com/user-attachments/assets/88033482-3260-4d8f-a55c-e4ddf207f998" />
 
 
 ## RESULT
 
-<img width="589" height="187" alt="image" src="https://github.com/user-attachments/assets/88033482-3260-4d8f-a55c-e4ddf207f998" />
+Python program to check whether the grade is A grade using simple if statement is successfully verified
